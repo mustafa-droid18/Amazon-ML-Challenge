@@ -41,8 +41,8 @@
 
 ### Neural Network
 
-[https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense] (https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense)
+[https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense] 
 
-[https://www.tensorflow.org/api_docs/python/tf/keras/metrics] (https://www.tensorflow.org/api_docs/python/tf/keras/metrics)
+[https://www.tensorflow.org/api_docs/python/tf/keras/metrics] 
 
-[https://www.tutorialspoint.com/keras/keras_merge_layer.htm] (https://www.tutorialspoint.com/keras/keras_merge_layer.htm)
+[https://www.tutorialspoint.com/keras/keras_merge_layer.htm]
