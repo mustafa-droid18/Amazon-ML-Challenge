@@ -38,3 +38,11 @@
 [https://www.tensorflow.org/text/tutorials/classify_text_with_bert](https://www.tensorflow.org/text/tutorials/classify_text_with_bert)
 
 [https://huggingface.co/blog/bert-101](https://huggingface.co/blog/bert-101)
+
+### Neural Network
+
+[https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense] (https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense)
+
+[https://www.tensorflow.org/api_docs/python/tf/keras/metrics] (https://www.tensorflow.org/api_docs/python/tf/keras/metrics)
+
+[https://www.tutorialspoint.com/keras/keras_merge_layer.htm] (https://www.tutorialspoint.com/keras/keras_merge_layer.htm)
