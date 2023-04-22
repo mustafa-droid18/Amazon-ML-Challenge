@@ -15,16 +15,6 @@
     env\Scripts\activate.ps1
 ```
 
-```
-Problem: cannot be loaded because running scripts is disabled on this system
-https://stackoverflow.com/questions/67150436/cannot-be-loaded-because-running-scripts-is-disabled-on-this-system-for-more-in
-Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
-
-Problem: 
-```
-
-2. Linux 
-
 ## Resource
 [Essential Text Pre-processing Techniques for NLP (Analytical Vidhya)](https://www.analyticsvidhya.com/blog/2021/09/essential-text-pre-processing-techniques-for-nlp/)
 []()
